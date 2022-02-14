@@ -3,6 +3,6 @@ A simple music player app that loads tracks from a native local SQL Android Data
 ### Features
   * Utilizes Android MVVM native architecture to keep track of songs in a local database
   * Background services are used to play songs while the app is minimized 
-  * The Sliding Up Panel library: [Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel 'Umano | Android Sliding Up Panel') is used 
-     to add button functionality in a miniplayer
+  * [Umano | Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel)
+     * This library was used to add button functionality in a miniplayer that can be configured to fill the screen 
         
